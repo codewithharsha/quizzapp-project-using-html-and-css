@@ -40,5 +40,8 @@ table, th, td {
 	border-collapse: collapse;
   }
   th, td {
-	padding:2px 15px 2px 5px;
+	padding:2px 25px 2px 25px;
+  }
+  body{
+	background-color: rgb(226, 232, 228);
   }
